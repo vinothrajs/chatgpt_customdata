@@ -1,16 +1,15 @@
-# chatgpt_customdata
-Train your own data with chat gpt
-# Steps to run the Python Program 
+
+# Train your own data with chatGPT
+## Steps to run the Python Program 
 
 ## Install Python 
-https://www.python.org/downloads/
-
 python version 3.8X
 
 ## Download the code from github
-git clone 
 
-## change the code in the file 
+## Create an Open API Key 
+
+## Change the code in the file 
 custom_data_train.py
 ```
 openai.api_key = open_ai_api_key
